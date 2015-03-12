@@ -1,0 +1,21 @@
+"*":
+  "exception-reporting":
+    userId: "3f23c4bc-c0d6-a1f0-21b4-de5b86e078df"
+  welcome:
+    showOnStartup: false
+  metrics:
+    userId: "65ab1ebe9b6c5352e0562fdbef3032c989d06075"
+  editor:
+    showIndentGuide: true
+    invisibles: {}
+  core:
+    ignoredNames: [
+      ".git"
+      ".hg"
+      "node_modules"
+    ]
+  "fuzzy-finder": {}
+  "atom-beautify":
+    _analyticsUserId: "98a1aa20-f236-482e-a122-5f4d13c37437"
+  minimap: {}
+  "tree-view": {}

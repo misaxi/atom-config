@@ -1,0 +1,10 @@
+atom-beautify@0.21.5
+autocomplete-paths@1.0.2
+autocomplete-plus@2.4.2
+autocomplete-snippets@1.0.1
+graphviz-preview@0.3.0
+language-dot@1.5.0
+minimap@4.6.0
+pen-paper-coffee-syntax@0.3.6
+vim-mode@0.38.0
+

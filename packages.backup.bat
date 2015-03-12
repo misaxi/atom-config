@@ -1,0 +1,1 @@
+apm list --bare --installed --dev false > packages.txt
